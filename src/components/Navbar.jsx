@@ -2,7 +2,6 @@ import React from "react";
 import { Link } from "react-router-dom";
 import { ShoppingCart } from "phosphor-react";
 import '../../src/navbar.css'
-import Contact from "./Contact/Contact";
 
 export const Navbar = () => {
   return (
